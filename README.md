@@ -175,6 +175,8 @@ docker compose down
 |---|---|
 | Tool-calling agent loop | ✅ |
 | Conditional routing | ✅ |
+
+
 | Dockerized (FastAPI + Streamlit) | ✅ |
 | Persistent memory / checkpointing | 🔜 Day 5 |
 | Human-in-the-loop | 🔜 Day 5 |

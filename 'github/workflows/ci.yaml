@@ -1,3 +1,5 @@
+# This workflow builds and pushes a Docker image to GitHub Container Registry (GHCR) when changes are pushed to the main branch.
+
 name: CI
 
 on:

@@ -19,7 +19,7 @@ This project demonstrates a **production-style agentic chatbot** where an LLM do
 User → Streamlit UI → FastAPI → LangGraph Agent → LLM ⇄ Tools → Final Answer → UI
 ```
 
----
+--------
 
 ## 🧰 Tech Stack
 
